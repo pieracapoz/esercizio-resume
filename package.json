@@ -1,6 +1,6 @@
 {
     "title": "Resume",
-    "name": "startbootstrap-resume",
+    "name": "esercizio-resume",
     "version": "7.0.5",
     "scripts": {
         "build": "npm run clean && npm run build:pug && npm run build:scss && npm run build:scripts && npm run build:assets",
@@ -21,10 +21,9 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/theme/resume",
+    "homepage": "https://github.com/pieracapoz/corsofullstack.git",
     "bugs": {
-        "url": "https://github.com/StartBootstrap/startbootstrap-resume/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/pieracapoz/esercizio-resume.gits"
     },
     "license": "MIT",
     "author": "Start Bootstrap",
@@ -33,7 +32,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/StartBootstrap/startbootstrap-resume.git"
+        "url": "https://github.com/pieracapoz/corsofullstack.git"
     },
     "dependencies": {
         "bootstrap": "^5.2.0-beta1"
